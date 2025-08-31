@@ -1,2 +1,2 @@
-# technicalexpert
+Saman Saleem Front-end Developer
 I am a passionate frontend web developer with a strong focus on creating responsive, user-friendly, and visually appealing web applications. With a solid foundation in React, JavaScript, and modern CSS frameworks, I enjoy transforming ideas into interactive digital experiences. I am constantly learning new technologies and improving my skills to deliver clean, efficient, and maintainable code. Beyond coding, I love exploring design trends and enhancing user experiences through thoughtful UI/UX practices.
